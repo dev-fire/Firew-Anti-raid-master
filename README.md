@@ -3,6 +3,8 @@
 
 BOT BY FIRE
 
+REQUIRE PYTHON !!
+
 Étape 1 : Config le .env
 
 Étape 2 : Tu dois lancer impérativement avec le launch.py
